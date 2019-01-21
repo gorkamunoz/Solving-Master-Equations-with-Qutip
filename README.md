@@ -1,4 +1,4 @@
-Master Equations Solving with Qutip
+ Solving Master Equations with Qutip
 =
 
 This notebook solves the dynamics of three level atom using the [QutiP](http://qutip.org/) toolbox. We consider dissipation
